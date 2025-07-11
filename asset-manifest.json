@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/socar-calc/static/css/main.e6c13ad2.css",
-    "main.js": "/socar-calc/static/js/main.e4b85976.js",
+    "main.js": "/socar-calc/static/js/main.e82ef5da.js",
     "static/js/453.9e602fe3.chunk.js": "/socar-calc/static/js/453.9e602fe3.chunk.js",
     "index.html": "/socar-calc/index.html",
     "main.e6c13ad2.css.map": "/socar-calc/static/css/main.e6c13ad2.css.map",
-    "main.e4b85976.js.map": "/socar-calc/static/js/main.e4b85976.js.map",
+    "main.e82ef5da.js.map": "/socar-calc/static/js/main.e82ef5da.js.map",
     "453.9e602fe3.chunk.js.map": "/socar-calc/static/js/453.9e602fe3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e4b85976.js"
+    "static/js/main.e82ef5da.js"
   ]
 }
